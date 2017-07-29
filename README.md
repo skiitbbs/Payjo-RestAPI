@@ -10,4 +10,6 @@
   
 Now, You are ready to run the code now.
 
+[Note: For code url is: https://github.com/skiitbbs/Payjo-RestAPI/blob/master/src/test/java/com/testrestapi/com/rest/RestTest.java]
+
 Thank you.
